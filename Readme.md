@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DeterminePrinterSettings/Form1.cs) (VB: [Form1.vb](./VB/DeterminePrinterSettings/Form1.vb))
+<!-- default file list end -->
 # How to determine the settings of the selected printer when the OK button is pressed in the Printer dialog
 
 
